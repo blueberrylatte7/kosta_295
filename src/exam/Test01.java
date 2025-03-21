@@ -9,5 +9,7 @@ public class Test01 {
 
 		System.out.println("원격에서 수정함 + 충돌시나리오");
 
+		System.out.println("원격에서 수정했어요~~~");
+
 	}
 }
